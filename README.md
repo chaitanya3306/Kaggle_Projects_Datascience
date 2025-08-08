@@ -1,4 +1,19 @@
-# Ai's Impact on Jobs
+# 📊 AI’s Impact on the Job Market – A Complete Data Science Case Study
+
+> A full-cycle data science project analyzing how AI affects various job sectors — from data analysis to prediction models.
+
+---
+
+## 🔍 Overview
+
+This project explores the growing impact of **Artificial Intelligence on employment trends**, job automation risk, and future job opportunities. Using data science techniques like **EDA**, **feature engineering**, and **machine learning models**, the goal is to gain insights and build predictive tools to understand which jobs are at higher risk due to AI.
+And this is also begginer freindly so any begginer can refer this for learnig the process of EDA and Prediction
+
+---
+
+## 📁 Project Structure
+
+
 ---
 ## 📊 Dataset Used
 
