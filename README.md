@@ -7,7 +7,7 @@
 ## 🔍 Overview
 
 This project explores the growing impact of **Artificial Intelligence on employment trends**, job automation risk, and future job opportunities. Using data science techniques like **EDA**, **feature engineering**, and **machine learning models**, the goal is to gain insights and build predictive tools to understand which jobs are at higher risk due to AI.
-And this is also begginer freindly so any begginer can refer this for learnig the process of EDA and Prediction
+And this is also begginer freindly so any begginer can refer this for learning the Process of EDA and Prediction Models
 
 ---
 
